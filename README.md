@@ -9,7 +9,7 @@
 - In this game, a random integer from 1 to 100 is picked and the players have to guess the number.
 
 - Rules:
-	 	If a player's guess is less than 1 or greater than 100, the message "OUT OF BOUNDS" is displayed.
+--If a player's guess is less than 1 or greater than 100, the message "OUT OF BOUNDS" is displayed.
 		On a player's first turn, if their guess is:
 			Within 10 of the number, "WARM!" is displayed.
 			Further than 10 away from the number,  "COLD!" is displayed.
