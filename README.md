@@ -1,6 +1,7 @@
 ### FeaturesComparison-Operators-and-Stataments-in-Python
 
 -This Repository contains the exercises done by me when learning Python programming language.
+
 -The exercises are provided by [Pierian Data Inc.](https://www.pieriandata.com) under [Udemy platform](https://www.udemy.com/user/pierian-data-international/?persist_locale&locale=pt_BR).
 
 ### Features
