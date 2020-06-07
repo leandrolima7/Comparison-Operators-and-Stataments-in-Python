@@ -1,0 +1,1 @@
+"Comparison-Operators-and-Stataments-in-Python\nThis Repository contains the exercises done by me when learning Python programming language.\nThe exercises are provided by Pierian Data Inc. under Udemy platform." 
