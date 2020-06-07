@@ -14,7 +14,7 @@ print("4 -  When the player's guess equals the number, you'll get 'Correctly' an
 print("After reading the rules, press Enter key to continue!")
 
 while True:
-	#This if condition checks wheter the user pressed Enter key or not
+	#This if condition checks whether the user pressed Enter key or not
 	if input() == "":
 		system('cls')
 		break
@@ -22,7 +22,7 @@ while True:
 		print("Input not valid! Please press Enter Key")
 
 #Getting the number to be guessed
-number = randint(0,10)
+number = randint(0,100)
 
 #Getting players
 players = int(input("Type the number of players:"))
@@ -40,7 +40,7 @@ system('cls')
 guessed = []
 for i in range(0,players):
 	guessed.append(0) 
-print(number)
+
 #First turn
 for i in range(0,players):
 	while True:
